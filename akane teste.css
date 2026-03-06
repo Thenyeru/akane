@@ -408,7 +408,7 @@ body {
 .grid-item:nth-child(2) .tooltip::before { background-image: url('https://avatars.charhub.io/avatars/uploads/images/gallery/file/09343d39-fc9f-45a1-9928-e0067e1828cc/af495be6-0cda-4f8c-9ac3-872322c5e829.png'); }
 .grid-item:nth-child(3) .tooltip::before { background-image: url('https://avatars.charhub.io/avatars/uploads/images/gallery/file/4ccab4cb-595c-46ba-a744-aa7a86d93140/0f47c764-a2bf-4273-a320-642e5e3e3d97.png'); }
 .grid-item:nth-child(4) .tooltip::before { background-image: url('https://avatars.charhub.io/avatars/uploads/images/gallery/file/66d983df-8827-4a92-b224-3a7cb396fbea/18a0a850-f857-4ced-8162-3ce76cc98d85.png'); }
-.grid-item:nth-child(5) .tooltip::before { background-image: url('SCENARIO_IMG_URL_5'); }
+.grid-item:nth-child(5) .tooltip::before { background-image: url('https://avatars.charhub.io/avatars/uploads/images/gallery/file/a24ca851-d338-4d74-8056-619f5a690e04/a3199814-990b-4b0b-aca8-f0bf70f75ee5.png'); }
 .grid-item:nth-child(6) .tooltip::before { background-image: url('https://avatars.charhub.io/avatars/uploads/images/gallery/file/edddc23c-f042-4276-9374-c91528521c77/1d77651d-0bc4-4663-8442-f1a3f5cd1789.png'); }
 .grid-item:nth-child(7) .tooltip::before { background-image: url('https://avatars.charhub.io/avatars/uploads/images/gallery/file/201c9a42-8c73-4363-8d3f-b034570161b2/01e13ef2-5aa7-43a8-a02c-011e9bbcec65.png'); }
 .grid-item:nth-child(8) .tooltip::before { background-image: url('https://avatars.charhub.io/avatars/uploads/images/gallery/file/15e8edbd-462f-45ab-aad1-28861782e5a7/1c36067f-11e3-464d-88e3-5d6a9565eb18.png'); }
@@ -745,3 +745,4 @@ body {
         font-size: 0.95rem;
     }
 }
+
