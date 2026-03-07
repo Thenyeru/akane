@@ -34,6 +34,7 @@
     z-index: 10000 !important;
     animation: mascotBob 12s linear infinite !important;
     transition: all 0.3s ease !important;
+    pointer-events: none !important;
 }
 
 @keyframes mascotBob {
@@ -745,4 +746,5 @@ body {
         font-size: 0.95rem;
     }
 }
+
 
